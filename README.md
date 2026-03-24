@@ -1,4 +1,4 @@
-# Systems Hacker Neovim Setup — Usage Guide
+# Systems Engineer Neovim Setup — Usage Guide
 
 This guide covers how to use every feature in this Neovim configuration for systems programming in C, Rust, and Python.
 
